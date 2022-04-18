@@ -1,0 +1,13 @@
+{
+  "name": "tg-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vitaliy Abramov",
+  "license": "MIT",
+  "dependencies": {
+    "telegram-webapps-types": "^1.0.2"
+  }
+}
